@@ -8,7 +8,7 @@
 
 A lightweight, high-performance HTML landing page template engineered for **100/100 PageSpeed scores** across all metrics. Zero dependencies, semantic HTML5, and inline critical CSS.
 
-**Live Demo:** [https://informigados.com.br/templates/html/nexus/](https://informigados.com.br/templates/html/nexus/)
+**Live Demo:** [https://informigados.com.br/templates/html/nexus-template/](https://informigados.com.br/templates/html/nexus-template/)
 
 ## 🚀 Features
 
@@ -28,12 +28,12 @@ This template has been rigorously tested to ensure absolute perfection in Core W
 ### Google PageSpeed Insights
 - **Mobile Score:** 100/100
 - **Desktop Score:** 100/100
-- [View Mobile Report](https://pagespeed.web.dev/analysis/https-informigados-com-br-templates-html-nexus/mw1ybztgop?form_factor=mobile)
-- [View Desktop Report](https://pagespeed.web.dev/analysis/https-informigados-com-br-templates-html-nexus/mw1ybztgop?form_factor=desktop)
+- [View Mobile Report](https://pagespeed.web.dev/analysis/https-informigados-com-br-templates-html-nexus-template/6z7pidob7b?form_factor=mobile)
+- [View Desktop Report](https://pagespeed.web.dev/analysis/https-informigados-com-br-templates-html-nexus-template/6z7pidob7b?form_factor=desktop)
 
 ### Pingdom Tools
 - **Performance Grade:** A
-- [View Pingdom Report](https://tools.pingdom.com/#6713a4e26f800000)
+- [View Pingdom Report](https://tools.pingdom.com/#67142bc2dc000000)
 
 ### GTMetrix & W3C
 - **Structure:** 100%
