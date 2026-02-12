@@ -36,7 +36,8 @@ This template has been rigorously tested to ensure absolute perfection in Core W
 - [View Pingdom Report](https://tools.pingdom.com/#67142bc2dc000000)
 
 ### GTMetrix & W3C
-- **Structure:** 100%
+- **Performance and Structure:** 100%
+- [View GTMetrix Report](https://gtmetrix.com/reports/informigados.com.br/D4KqgwRq/)
 - **W3C HTML Validation:** Passed
 - **W3C CSS Validation:** Passed
 
