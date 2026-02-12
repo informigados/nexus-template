@@ -67,5 +67,5 @@ This template has been rigorously tested to ensure absolute perfection in Core W
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 <p align="left">
-  Created with ❤️ by <a href="https://html.informigados.com.br/" target="_blank">INformigados</a>
+  Created with 💚 by <a href="https://html.informigados.com.br/" target="_blank">INformigados</a>
 </p>
