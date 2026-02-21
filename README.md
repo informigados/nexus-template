@@ -5,6 +5,7 @@
 ![PageSpeed Desktop](https://img.shields.io/badge/PageSpeed%20Desktop-100%2F100-brightgreen)
 ![HTML5](https://img.shields.io/badge/HTML5-Valid-blue)
 ![CSS3](https://img.shields.io/badge/CSS3-Valid-blue)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/informigados/nexus-template)
 
 A lightweight, high-performance HTML landing page template engineered for **100/100 PageSpeed scores** across all metrics. Zero dependencies, semantic HTML5, and inline critical CSS.
 
