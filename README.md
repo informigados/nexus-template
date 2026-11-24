@@ -9,7 +9,7 @@
 
 A lightweight, high-performance HTML landing page template engineered for **100/100 PageSpeed scores** across all metrics. Zero dependencies, semantic HTML5, and inline critical CSS.
 
-**Live Demo:** [https://informigados.com.br/templates/html/nexus-template/](https://informigados.com.br/templates/html/nexus-template/)
+**Live Demo:** [https://informigados.github.io/nexus-template/](https://informigados.github.io/nexus-template/)
 
 ## 🚀 Features
 
@@ -29,16 +29,16 @@ This template has been rigorously tested to ensure absolute perfection in Core W
 ### Google PageSpeed Insights
 - **Mobile Score:** 100/100
 - **Desktop Score:** 100/100
-- [View Mobile Report](https://pagespeed.web.dev/analysis/https-informigados-com-br-templates-html-nexus-template/6z7pidob7b?form_factor=mobile)
-- [View Desktop Report](https://pagespeed.web.dev/analysis/https-informigados-com-br-templates-html-nexus-template/6z7pidob7b?form_factor=desktop)
+- [View Mobile Report](https://pagespeed.web.dev/analysis/https-informigados-github-io-nexus-template/xm318csxgxqpu3zusx28r4?form_factor=mobile)
+- [View Desktop Report](https://pagespeed.web.dev/analysis/https-informigados-github-io-nexus-template/xm318csxgxqpu3zusx28r4?form_factor=desktop)
 
 ### Pingdom Tools
 - **Performance Grade:** A
-- [View Pingdom Report](https://tools.pingdom.com/#67142bc2dc000000)
+- [View Pingdom Report](https://tools.pingdom.com/#6882d51fc6400000)
 
 ### GTMetrix & W3C
 - **Performance and Structure:** 100%
-- [View GTMetrix Report](https://gtmetrix.com/reports/informigados.com.br/D4KqgwRq/)
+- [View GTMetrix Report](https://gtmetrix.com/reports/informigados.github.io/btfiZziz/)
 - **W3C HTML Validation:** Passed
 - **W3C CSS Validation:** Passed
 
